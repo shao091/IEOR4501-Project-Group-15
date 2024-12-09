@@ -1,0 +1,13 @@
+os
+bs4
+matplotlib.pyplot
+pandas as pd
+requests
+sqlalchemy
+re
+geopandas
+math 
+urllib.parse 
+glob
+folium
+folium.plugins
