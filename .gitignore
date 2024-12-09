@@ -21,3 +21,6 @@ nyc_heatmap_2020.html
 
 # Ignore macOS system files
 .DS_Store
+
+# Ignore png image
+*.png
