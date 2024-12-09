@@ -18,4 +18,6 @@ nyc_heatmap_2020.html
 
 # Ignore csv file
 *.csv
+
+# Ignore macOS system files
 .DS_Store
